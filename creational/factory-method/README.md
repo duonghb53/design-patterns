@@ -1,5 +1,5 @@
 # Dialog Rendering
-This example illustrates how to organize a GUI framework into independent modules using <strong>dynamic dispatch</strong>:
+This example illustrates how to organize a GUI framework into independent modules using **dynamic dispatch**:
 
 1. The `gui` module defines interfaces for all the components. It has no external dependencies.
 2. The `html_gui` module provides HTML implementation of the base GUI.
