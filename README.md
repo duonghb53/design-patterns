@@ -6,3 +6,5 @@ Implement by Rust from [Refactoring Guru](https://refactoring.guru/design-patter
 2. [Abstract Factory](creational/abstract-factory/)
 3. [Builder](creational/builder/)
 4. [Prototype](creational/prototype/)
+
+![cheatsheet](designpatternscard.jpg)
